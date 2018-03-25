@@ -16,7 +16,7 @@ public class SampleAutomationScript {
 	
 	
 	public static void main(String[] args) throws InterruptedException, AWTException {
-	System.out.println("changes...");
+	System.out.println("changes added from git...");
 		
 		/**
 		 * 
